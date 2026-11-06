@@ -1,0 +1,18 @@
+[
+  {
+	"id": "dlc-wc2-exp",
+	"gameId": "warcraft2",
+	"title": "Warcraft II: Beyond the Dark Portal",
+	"description": "Официальное дополнение, добавляющее новые карты Орды.",
+	"price": 500,
+	"cardIds": ["wc2-deathknight"]
+  },
+  {
+	"id": "dlc-cs-exp",
+	"gameId": "cs",
+	"title": "CS 1.6: Condition Zero",
+	"description": "Добавляет легендарное оружие снайперов.",
+	"price": 400,
+	"cardIds": ["cs-awp"]
+  }
+]

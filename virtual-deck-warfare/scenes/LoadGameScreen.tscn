@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://djrydbuae6ear"]
+
+[ext_resource type="Script" uid="uid://dsbbspcynq68f" path="res://scenes/LoadGameScreen.gd" id="1_52dil"]
+
+[node name="LoadGameScreen" type="Control" unique_id=1629806388]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_52dil")

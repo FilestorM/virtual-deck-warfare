@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://c1ukryh075n88"]
+
+[node name="Shop" type="Control" unique_id=756607783]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1043656053]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.05882353, 0.09019608, 0.16470589, 1)
+
+[node name="Label" type="Label" parent="ColorRect" unique_id=1488835180]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="Label2" type="Label" parent="ColorRect" unique_id=704867976]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0

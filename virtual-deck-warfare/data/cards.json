@@ -1,0 +1,22 @@
+[
+  { "id": "wc2-peasant", "gameId": "warcraft2", "name": "Крестьянин", "type": "unit", "cost": 1, "attack": 1, "health": 1, "ability": "Приносит 1 золото в начале хода.", "rarity": "common", "imageKey": "peasant" },
+  { "id": "wc2-footman", "gameId": "warcraft2", "name": "Пехотинец", "type": "unit", "cost": 2, "attack": 2, "health": 3, "ability": "Щит: уменьшает урон на 1.", "rarity": "common", "imageKey": "footman" },
+  { "id": "wc2-archer", "gameId": "warcraft2", "name": "Лучник", "type": "unit", "cost": 2, "attack": 3, "health": 2, "ability": "Дальний бой: атакует любого врага.", "rarity": "common", "imageKey": "archer" },
+  { "id": "wc2-knight", "gameId": "warcraft2", "name": "Рыцарь", "type": "unit", "cost": 4, "attack": 4, "health": 5, "ability": "Натиск: может атаковать сразу после призыва.", "rarity": "rare", "imageKey": "knight" },
+  { "id": "wc2-grunt", "gameId": "warcraft2", "name": "Грунт", "type": "unit", "cost": 3, "attack": 3, "health": 4, "ability": "Ярость: получает +1 атаку, если ранен.", "rarity": "common", "imageKey": "grunt" },
+  { "id": "wc2-catapult", "gameId": "warcraft2", "name": "Катапульта", "type": "unit", "cost": 5, "attack": 6, "health": 2, "ability": "Осадное орудие: наносит 2 урона всем врагам.", "rarity": "epic", "imageKey": "catapult" },
+  { "id": "sc-marine", "gameId": "starcraft", "name": "Морпех", "type": "unit", "cost": 1, "attack": 2, "health": 2, "ability": "Стимулятор: может получить +1 атаку за 1 энергию.", "rarity": "common", "imageKey": "marine" },
+  { "id": "sc-zergling", "gameId": "starcraft", "name": "Зерглинг", "type": "unit", "cost": 1, "attack": 1, "health": 1, "ability": "Рой: за каждого зерглинга на поле даёт +1 атаку.", "rarity": "common", "imageKey": "zergling" },
+  { "id": "sc-zealot", "gameId": "starcraft", "name": "Зилот", "type": "unit", "cost": 2, "attack": 3, "health": 3, "ability": "Псионические клинки: игнорирует броню.", "rarity": "common", "imageKey": "zealot" },
+  { "id": "sc-hydra", "gameId": "starcraft", "name": "Гидралиск", "type": "unit", "cost": 3, "attack": 4, "health": 3, "ability": "Плевок: наносит 1 урон всем врагам.", "rarity": "rare", "imageKey": "hydra" },
+  { "id": "sc-battlecruiser", "gameId": "starcraft", "name": "Линкор", "type": "unit", "cost": 6, "attack": 6, "health": 10, "ability": "Ямато: тратит 3 энергии, наносит 5 урона.", "rarity": "epic", "imageKey": "battlecruiser" },
+  { "id": "sc-psistorm", "gameId": "starcraft", "name": "Пси-шторм", "type": "spell", "cost": 4, "ability": "Наносит 3 урона всем картам врага.", "rarity": "rare", "imageKey": "psistorm" },
+  { "id": "cs-pistol", "gameId": "cs", "name": "Пистолет", "type": "weapon", "cost": 1, "attack": 1, "health": 0, "ability": "Дешёвый старт: не требует денег.", "rarity": "common", "imageKey": "pistol" },
+  { "id": "cs-smg", "gameId": "cs", "name": "ПП", "type": "weapon", "cost": 2, "attack": 2, "health": 0, "ability": "Очередь: +1 атака, если есть пистолет.", "rarity": "common", "imageKey": "smg" },
+  { "id": "cs-rifle", "gameId": "cs", "name": "Винтовка", "type": "weapon", "cost": 3, "attack": 4, "health": 0, "ability": "Точность: игнорирует броню.", "rarity": "rare", "imageKey": "rifle" },
+  { "id": "cs-sniper", "gameId": "cs", "name": "Снайперская винтовка", "type": "weapon", "cost": 5, "attack": 6, "health": 0, "ability": "Ваншот: убивает карту с здоровьем 3 и менее.", "rarity": "epic", "imageKey": "sniper" },
+  { "id": "cs-grenade", "gameId": "cs", "name": "Граната", "type": "weapon", "cost": 2, "attack": 3, "health": 0, "ability": "Взрыв: наносит 2 урона всем врагам.", "rarity": "common", "imageKey": "grenade" },
+  { "id": "cs-defuse", "gameId": "cs", "name": "Разминирование", "type": "spell", "cost": 4, "ability": "Отменяет действие вражеской карты.", "rarity": "rare", "imageKey": "defuse" },
+  { "id": "wc2-deathknight", "gameId": "warcraft2", "name": "Рыцарь смерти", "type": "unit", "cost": 6, "attack": 7, "health": 4, "ability": "Поднятие: призывает скелета.", "rarity": "epic", "imageKey": "deathknight" },
+  { "id": "cs-awp", "gameId": "cs", "name": "AWP", "type": "weapon", "cost": 6, "attack": 8, "health": 0, "ability": "Ваншот в голову.", "rarity": "legendary", "imageKey": "awp" }
+]

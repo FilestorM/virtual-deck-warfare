@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://fems0im2y7cu"]
+
+[ext_resource type="Script" uid="uid://bx4av4q6hatmx" path="res://scenes/Settings.gd" id="1_rbmmp"]
+
+[node name="Settings" type="Control" unique_id=1311874711]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_rbmmp")

@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cxj7sog850akn"]
+
+[ext_resource type="Script" uid="uid://dplie35hau7ai" path="res://scenes/NewGameSetup.gd" id="1_lf25y"]
+
+[node name="NewGameSetup" type="Control" unique_id=1787307429]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_lf25y")

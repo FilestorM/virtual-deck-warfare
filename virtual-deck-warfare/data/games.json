@@ -1,0 +1,26 @@
+[
+  {
+	"id": "warcraft2",
+	"title": "Warcraft II: Tides of Darkness",
+	"year": 1995,
+	"genre": "RTS",
+	"description": "WarCraft II: Tides of Darkness - фэнтезийная стратегическая игра в реальном времени, действие которой разворачивается в мире Азерот. С завоеванием королевства Азерот в первой войне орки объединились с гоблинами, троллями и ограми, теперь готовятся к вторжению в Лордерон и завоеванию оставшихся царств людей, дварфов и эльфов. Чтобы противостоять этому вторжению, люди, эльфы и гномы заключили союз в надежде избежать участи, постигшей королевство Азерот.",
+	"price": 1200,
+	"coverKey": "warcraft2",
+	"requirements": { "cpu": 75, "ram": 8, "gpu": 1, "minOSRank": 1 },
+	"uniqueMechanic": "Добыча золота: карты рабочих генерируют ресурс, который тратится на призыв войск.",
+	"cardIds": ["wc2-peasant", "wc2-footman", "wc2-archer", "wc2-knight", "wc2-grunt", "wc2-catapult"]
+  },
+  {
+	"id": "cs",
+	"title": "Counter-Strike 1.6",
+	"year": 1999,
+	"genre": "Tactical Shooter",
+	"description": "Легендарный тактический шутер. Экономика и командная игра решают исход раунда.",
+	"price": 1000,
+	"coverKey": "cs",
+	"requirements": { "cpu": 133, "ram": 32, "gpu": 4, "minOSRank": 2 },
+	"uniqueMechanic": "Экономика оружия: убийства приносят деньги, которые тратятся на покупку снаряжения.",
+	"cardIds": ["cs-pistol", "cs-smg", "cs-rifle", "cs-sniper", "cs-grenade", "cs-defuse"]
+  }
+]
